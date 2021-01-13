@@ -1,0 +1,5 @@
+link 800
+grab 200
+link 800
+drop
+halt 

@@ -1,5 +1,7 @@
 LINK 800
 LINK 799
+NOTE copy f into 
+NOTE m 
 GRAB 199
 COPY F M
 COPY F M

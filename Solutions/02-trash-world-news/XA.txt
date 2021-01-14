@@ -1,10 +1,15 @@
+NOTE move and grab
+NOTE file
 LINK 800
 GRAB 200
+NOTE preform set 
+NOTE of operations
 COPY F X
 ADDI X F X
 MULI X F X 
 SUBI X F X
 COPY X F
+NOTE move and drop file
 LINK 800
 DROP 
 HALT

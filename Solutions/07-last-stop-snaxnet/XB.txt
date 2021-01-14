@@ -1,0 +1,7 @@
+NOTE COPY F INTO M AND 
+NOTE DROP FILE 
+GRAB 300
+COPY F M
+DROP
+
+Worked with Cyrus.

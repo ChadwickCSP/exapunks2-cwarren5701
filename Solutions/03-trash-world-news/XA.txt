@@ -1,5 +1,7 @@
+NOTE move bot 
 LINK 800
 LINK 800
+NOTE make file
 MAKE
 COPY M X
 COPY M F

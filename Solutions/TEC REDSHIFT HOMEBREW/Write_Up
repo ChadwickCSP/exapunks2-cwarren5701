@@ -1,0 +1,7 @@
+In my TEC REDSHIFT HOMEBREW program, I made two main functions. The first one 
+("PAD") tests if one of the pad sections in held down, and if so, it will jump
+to another corresponding function that will move the 'x' 1 pixel right, 
+left, down or up depending on which part of the pad is held down. The 
+second function ("FASTER") does the same thing as "PAD" but instead of just 
+moving one pixel at a time, the 'x' moves 3 pixels at a time. This "FASTER"
+loop is initated when the player holds down the x botton for 3 seconds. 
